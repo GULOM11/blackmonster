@@ -1,0 +1,18 @@
+newmtl skin
+map_Kd ../../textures/entity/black_monster/skin.png
+
+newmtl eye
+map_Kd ../../textures/entity/black_monster/eye.png
+
+newmtl maw
+map_Kd ../../textures/entity/black_monster/maw.png
+
+newmtl teeth
+map_Kd ../../textures/entity/black_monster/teeth.png
+
+newmtl claw
+map_Kd ../../textures/entity/black_monster/claw.png
+
+newmtl cloth
+map_Kd ../../textures/entity/black_monster/cloth.png
+
